@@ -1,1 +1,1 @@
-# edu-big-data-
+# edu-data-mining-
