@@ -9,4 +9,4 @@
 ## 課程紀錄
 ## 練習
 - 2025/3/5
-  [課堂練習1_未完成]（https://github.com/Emily-Hsu2004/edu-data-mining-/blob/main/教育資料探勘Ex1.ipynb）
+  [課堂練習1_未完成]（https://github.com/Emily-Hsu2004/edu-data-mining-/blob/main/教育資料探勘Ex1.ipynb)
